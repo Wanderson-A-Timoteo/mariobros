@@ -112,6 +112,12 @@ Feito com ♥ by
        src="github/Dev-em-Dobro.jpeg" 
   />
 
+<br>
+
+<div align="center">
+  <img alt="Dev Em Dobro" 
+       src="github/Semana-do-zero-ao-programador-contratado.png" 
+/>
 
 <br>
 
