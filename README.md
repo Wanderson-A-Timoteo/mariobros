@@ -1,4 +1,10 @@
 <h1 align="center">
+  <img 
+    align="center" 
+    alt="Imagem da Tela Inicial" title="Tela Inicial" 
+    src="github/logo-chapeu-mario.png"
+    width="50px"
+  />
   Mario Bros. - O Filme
 </h1>
 
