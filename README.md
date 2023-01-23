@@ -33,7 +33,7 @@ Projeto landing page em virtude da estreia do filme Mario Bros, este foi desenvo
 </p>
 <br>
 
-### Tela em desktop
+### Tela em Mobile
 
 <p align="center">
     <img alt="Imagem da Tela Inicial" title="Tela Inicial" 
